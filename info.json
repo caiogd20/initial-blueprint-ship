@@ -1,9 +1,12 @@
 {
-  "name": "initial-blueprint-ship",
+  "name": "fornalha-inicial",
   "version": "1.0.0",
-  "title": "Nave Inicial com Blueprint",
-  "author": "Caio Conçalves Dias",
+  "title": "Fornalha de Pedra Inicial",
+  "author": "Caio Gonçalves Dias",
   "factorio_version": "2.0",
-  "dependencies": ["base >= 2.0.0", "? Space Age >= 2.0.0"],
-  "description": "Substitui a nave inicial por uma blueprint pré-definida no Factorio 2.0 Space Age."
+  "dependencies": [
+    "base >= 2.0",
+    "space-age >= 2.0"
+  ],
+  "description": "Substitui a nave inicial por uma fornalha de pedra."
 }
